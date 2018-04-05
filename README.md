@@ -20,7 +20,7 @@ nano config.json
 npm install
 ```
 
-**Starting Via NodeJS (assuming you have v6 installed)**
+**Starting Via NodeJS (assuming you have >= v7 installed)**
 ```
 node app.js
 ```
