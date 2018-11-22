@@ -25,5 +25,10 @@ npm install
 node app.js
 ```
 
+Docker
+========
 
-This script originally written by someguy123 and adopted for using golos-js library. Docker is not supported, but can be used. Probably.
+```
+docker build -t golosfeed-js .
+docker run -it --rm --name golosfeed golosfeed-js
+```
